@@ -1,0 +1,43 @@
+
+#container{
+  width: 1289px;
+  height: 489px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div{
+  height: 20%;
+}
+
+.elementRouge{
+  width: 90%;
+  height:100px;
+  background-color :red;
+}
+.elementVert{
+  background-color: grey;
+  width: 90% ;
+
+}
+.elementJaune{
+background-color: yellow;
+width: 90%;
+}
+.elementViolet{
+  background-color: purple;
+  width: 90%;
+
+}
+.elementGris{
+background-color: grey;
+width: 90%;
+}
+.elementNoir{
+background-color: black;
+width: 90%;
+}
+.elementOr{
+background-color: gold;
+width: 90%;
+}
